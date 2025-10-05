@@ -47,10 +47,22 @@ It displays the strength level (**Weak**, **Medium**, **Strong**, **Very Strong*
    - **Weak 🔓❌** (Red)  
    - **Medium 🔒⚠️** (Orange)  
    - **Strong ✅** (Light Green)  
-   - **Very Strong 🔐** (Neon Green)  
+   - **Very Strong 🔐** (Neon Green)
 
 ---
 
+
+## Screenshots
+*![Weak Password]*  <img width="1920" height="1020" alt="Weak Password" src="https://github.com/user-attachments/assets/8d028e50-6384-49d1-abf9-6aa8ccef8abb" />
+
+
+*![Medium Password]* <img width="1920" height="1020" alt="Medium_S Password" src="https://github.com/user-attachments/assets/469af2a7-3d69-4500-b023-9f52ddbd4cf4" />
+
+
+*![Strong Password]* <img width="1920" height="1020" alt="Strong Password" src="https://github.com/user-attachments/assets/e962df10-3c2a-4698-a13e-f6e918e0760a" />
+
+
+---
 
 ## 💻 How to Run
 
