@@ -63,6 +63,15 @@ It displays the strength level (**Weak**, **Medium**, **Strong**, **Very Strong*
 
 
 ---
+# Badges
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Tkinter](https://img.shields.io/badge/GUI-Tkinter-green?logo=python)
+![CyberSecurity](https://img.shields.io/badge/Theme-CyberSecurity-black?logo=hackaday)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+[![LinkedIn](https://img.shields.io/badge/Connect-Sakshi%20Panchariya-blue?logo=linkedin)](https://www.linkedin.com/in/sakshi-panchariya-591585291)
+
+---
 
 ## 💻 How to Run
 
