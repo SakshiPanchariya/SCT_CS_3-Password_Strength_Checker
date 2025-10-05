@@ -51,6 +51,7 @@ It displays the strength level (**Weak**, **Medium**, **Strong**, **Very Strong*
 
 ---
 
+
 ## 💻 How to Run
 
 1. Clone this repository:
