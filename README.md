@@ -55,5 +55,5 @@ It displays the strength level (**Weak**, **Medium**, **Strong**, **Very Strong*
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/password-strength-checker-python.git
+   git clone https://github.com/SakshiPanchariya/SCT_CS_3-Password_Strength_Checker.git
 
