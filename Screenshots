@@ -1,1 +1,4 @@
-
+rm -r screenshots
+git add .
+git commit -m "Removed screenshots folder"
+git push origin main
